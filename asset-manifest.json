@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.efbd71ea.css",
-    "main.js": "/static/js/main.9fe68012.js",
+    "main.css": "/static/css/main.cd82a923.css",
+    "main.js": "/static/js/main.3d687cc4.js",
     "static/js/488.9561f9b8.chunk.js": "/static/js/488.9561f9b8.chunk.js",
+    "static/media/React App - Google Chrome 2024-06-06 13-33-51.mp4": "/static/media/React App - Google Chrome 2024-06-06 13-33-51.dd08773980f79090faa2.mp4",
     "static/media/site6.png": "/static/media/site6.e669acc92eb8b539283c.png",
     "static/media/aiDetectorVideo.mp4": "/static/media/aiDetectorVideo.d20193016ae045660fff.mp4",
     "static/media/site7.png": "/static/media/site7.c66bb277dfbec9ff14ee.png",
@@ -16,12 +17,12 @@
     "static/media/site2.jpg": "/static/media/site2.e019e29991230a9577b5.jpg",
     "static/media/electron.png": "/static/media/electron.f2b695bf2b4a1e356a53.png",
     "index.html": "/index.html",
-    "main.efbd71ea.css.map": "/static/css/main.efbd71ea.css.map",
-    "main.9fe68012.js.map": "/static/js/main.9fe68012.js.map",
+    "main.cd82a923.css.map": "/static/css/main.cd82a923.css.map",
+    "main.3d687cc4.js.map": "/static/js/main.3d687cc4.js.map",
     "488.9561f9b8.chunk.js.map": "/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efbd71ea.css",
-    "static/js/main.9fe68012.js"
+    "static/css/main.cd82a923.css",
+    "static/js/main.3d687cc4.js"
   ]
 }
